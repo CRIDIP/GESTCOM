@@ -1,0 +1,48 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 01/04/2016 23:59
+  	*/
+
+@font-face {
+  font-family: "ovh";
+  src: url("./ovh.eot");
+  src: url("./ovh.eot?#iefix") format("embedded-opentype"),
+       url("./ovh.woff") format("woff"),
+       url("./ovh.ttf") format("truetype"),
+       url("./ovh.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "ovh";
+    src: url("./ovh.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="ovh-"]:before, [class*=" ovh-"]:before,
+[class^="ovh-"]:after, [class*=" ovh-"]:after {
+  font-family: ovh;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.ovh-avatar:before { content: "\f100"; }
+.ovh-business:before { content: "\f101"; }
+.ovh-business-1:before { content: "\f102"; }
+.ovh-commerce:before { content: "\f103"; }
+.ovh-computer:before { content: "\f104"; }
+.ovh-people:before { content: "\f105"; }
+.ovh-technology:before { content: "\f106"; }
+.ovh-technology-1:before { content: "\f107"; }
+.ovh-technology-2:before { content: "\f108"; }
+.ovh-technology-3:before { content: "\f109"; }
+.ovh-technology-4:before { content: "\f10a"; }
+.ovh-technology-5:before { content: "\f10b"; }
+.ovh-technology-6:before { content: "\f10c"; }
+.ovh-technology-7:before { content: "\f10d"; }
+.ovh-technology-8:before { content: "\f10e"; }
+.ovh-web:before { content: "\f10f"; }
+.ovh-web-1:before { content: "\f110"; }
