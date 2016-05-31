@@ -11,8 +11,8 @@ namespace App\general;
 
 class constante
 {
-    const HTTP              = "http://";
-    const URL               = "gestcom.eu/";
+    const HTTP              = "https://";
+    const URL               = "gestcom.cridip.com/";
     const ASSETS            = "assets/";
     const NOM_SITE          = "GESTCOM";
     const SOURCES           = "https://ns342142.ip-5-196-76.eu/gc/";

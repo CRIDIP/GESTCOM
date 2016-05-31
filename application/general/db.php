@@ -15,7 +15,7 @@ use PDOException;
 class db
 {
     protected $host = "localhost";
-    protected $username = "root";
+    protected $username = "gestcom";
     protected $password = "1992_Maxime";
     protected $database = "gestcom";
     private $db;
